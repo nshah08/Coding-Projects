@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1569995012 source:c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\src\dust.cpp
+	"dust.h"
+
+1569987297 c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\include\dust.h
+	<iostream>
+	<list>
+	<random>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1570034595 source:c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\main.cpp
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	"dust.h"
+	"Flechettes.h"
+	"Target.h"
+	"Homebase.h"
+
+1569979977 source:c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\src\flechettes.cpp
+	"Flechettes.h"
+
+1569997485 c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\include\flechettes.h
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+	<cstdlib>
+	"dust.h"
+
+1569989083 source:c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\src\target.cpp
+	"Target.h"
+
+1569982514 c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\include\target.h
+	<iostream>
+	<list>
+	<random>
+	<cstdlib>
+	<ctime>
+
+1570035893 source:c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\src\homebase.cpp
+	"Homebase.h"
+
+1570035915 c:\users\nishi\desktop\c++ programs\shah_nishil_cs361_assignment1\include\homebase.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	"Flechettes.h"
+

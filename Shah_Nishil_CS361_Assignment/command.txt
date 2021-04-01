@@ -1,0 +1,9 @@
+set xlabel " x location " 
+set ylabel " y location "
+set xrange [0:200]
+set yrange [0:200]
+set view equal xyz
+set terminal png
+set output "dx_dy_data.png" 
+plot "dx_dy_data.txt"  ps var pt 2  with points 
+pause -1

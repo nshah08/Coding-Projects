@@ -1,0 +1,9 @@
+set xlabel " x location " 
+set ylabel " y location "
+set xrange [0:200]
+set yrange [0:200]
+set view equal xyz
+set terminal png
+set output " fx_fy_data.png" 
+plot "fx_fy_data.txt"  ps var pt 1  with points 
+pause -1
